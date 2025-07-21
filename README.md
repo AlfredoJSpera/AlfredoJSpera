@@ -30,3 +30,4 @@ I'm especially interested in backend and cloud technology.
 
 
 ### My certifications
+<img src="certifications/red-hat-training-getting-started-with-linux-fundame.1.png">
