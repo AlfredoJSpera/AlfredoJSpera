@@ -1,5 +1,5 @@
 ## Hello there! 👋
-I'm Alfredo, a recent Computer Science graduate passionate about coding, technology, digital drawing and Linux!
+I'm **Alfredo**, a recent Computer Science graduate passionate about coding, technology, digital drawing and Linux!
 
 I'm especially interested in backend and cloud technology.
 
