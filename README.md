@@ -29,10 +29,39 @@ I'm especially interested in backend and cloud technology.
 ![Jetbrains](https://img.shields.io/badge/JetBrains-000000?style=for-the-badge&logo=jetbrains&logoColor=white)
 
 ### My thesis project
-[![vm-lab card dark](https://github-readme-stats.vercel.app/api/pin/?username=isislab-unisa&repo=vm-lab&theme=dark#gh-dark-mode-only)](https://github.com/isislab-unisa/vm-lab#readme)
-[![vm-lab card light](https://github-readme-stats.vercel.app/api/pin/?username=isislab-unisa&repo=vm-lab&theme=default#gh-light-mode-only)](https://github.com/isislab-unisa/vm-lab#readme)
-[![alfresco-sftp card](https://github-readme-stats.vercel.app/api/pin/?username=isislab-unisa&repo=alfresco-sftp&theme=dark)](https://github.com/isislab-unisa/alfresco-sftp#readme)
-[![alfresco-ssh card](https://github-readme-stats.vercel.app/api/pin/?username=isislab-unisa&repo=alfresco-ssh&theme=dark)](https://github.com/isislab-unisa/alfresco-ssh#readme)
+<picture>
+  <source
+    srcset="https://github-readme-stats.vercel.app/api/pin/?username=isislab-unisa&repo=vm-lab&theme=dark"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-readme-stats.vercel.app/api/pin/?username=isislab-unisa&repo=vm-lab"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=isislab-unisa&repo=vm-lab" />
+</picture>
+<picture>
+  <source
+    srcset="https://github-readme-stats.vercel.app/api/pin/?username=isislab-unisa&repo=alfresco-sftp&theme=dark"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-readme-stats.vercel.app/api/pin/?username=isislab-unisa&repo=alfresco-sftp"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=isislab-unisa&repo=alfresco-sftp" />
+</picture>
+<picture>
+  <source
+    srcset="https://github-readme-stats.vercel.app/api/pin/?username=isislab-unisa&repo=alfresco-ssh&theme=dark"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-readme-stats.vercel.app/api/pin/?username=isislab-unisa&repo=alfresco-ssh"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=isislab-unisa&repo=alfresco-ssh" />
+</picture>
 
 ### My certifications
 <img src="certifications/red-hat-training-getting-started-with-linux-fundame.1.png">
