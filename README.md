@@ -68,5 +68,6 @@ I'm especially interested in backend and cloud technology.
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=isislab-unisa&repo=alfresco-ssh" />
   </picture>
 </a>
+
 ### My certifications
 <img src="certifications/red-hat-training-getting-started-with-linux-fundame.1.png">
