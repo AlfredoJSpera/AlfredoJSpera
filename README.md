@@ -70,4 +70,6 @@ I'm especially interested in backend and cloud technology.
 </a>
 
 ### My certifications
-<img src="certifications/red-hat-training-getting-started-with-linux-fundame.1.png">
+<a href="https://www.credly.com/badges/5725a674-b719-4c0c-8d52-02fe8375ba3c" target="_blank">
+  <img src="certifications/red-hat-training-getting-started-with-linux-fundame.1.png">
+</a>
