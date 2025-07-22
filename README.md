@@ -10,13 +10,13 @@ I'm especially interested in backend and cloud technology.
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-306998?style=for-the-badge&logo=python&logoColor=white)
 
-### Linux distros
+### Linux distros I'm familiar with
 ![Fedora](https://img.shields.io/badge/Fedora_❤️-294172?style=for-the-badge&logo=fedora&logoColor=white)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 ![Linux Mint](https://img.shields.io/badge/Linux%20Mint-87CF3E?style=for-the-badge&logo=Linux%20Mint&logoColor=white)
 ![Arch](https://img.shields.io/badge/Arch%20Linux-1793D1?logo=arch-linux&logoColor=fff&style=for-the-badge)
 
-### Frameworks
+### The frameworks I've used
 ![Streamlit](https://img.shields.io/badge/Streamlit-%23FE4B4B.svg?style=for-the-badge&logo=streamlit&logoColor=white)
 ![Spring](https://img.shields.io/badge/spring_boot-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
 ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
@@ -29,39 +29,44 @@ I'm especially interested in backend and cloud technology.
 ![Jetbrains](https://img.shields.io/badge/JetBrains-000000?style=for-the-badge&logo=jetbrains&logoColor=white)
 
 ### My thesis project
-<picture>
-  <source
-    srcset="https://github-readme-stats.vercel.app/api/pin/?username=isislab-unisa&repo=vm-lab&theme=dark"
-    media="(prefers-color-scheme: dark)"
-  />
-  <source
-    srcset="https://github-readme-stats.vercel.app/api/pin/?username=isislab-unisa&repo=vm-lab"
-    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-  />
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=isislab-unisa&repo=vm-lab" />
-</picture>
-<picture>
-  <source
-    srcset="https://github-readme-stats.vercel.app/api/pin/?username=isislab-unisa&repo=alfresco-sftp&theme=dark"
-    media="(prefers-color-scheme: dark)"
-  />
-  <source
-    srcset="https://github-readme-stats.vercel.app/api/pin/?username=isislab-unisa&repo=alfresco-sftp"
-    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-  />
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=isislab-unisa&repo=alfresco-sftp" />
-</picture>
-<picture>
-  <source
-    srcset="https://github-readme-stats.vercel.app/api/pin/?username=isislab-unisa&repo=alfresco-ssh&theme=dark"
-    media="(prefers-color-scheme: dark)"
-  />
-  <source
-    srcset="https://github-readme-stats.vercel.app/api/pin/?username=isislab-unisa&repo=alfresco-ssh"
-    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-  />
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=isislab-unisa&repo=alfresco-ssh" />
-</picture>
-
+<a href="https://github.com/isislab-unisa/vm-lab#readme" target="_blank">
+  <picture>
+    <source
+      srcset="https://github-readme-stats.vercel.app/api/pin/?username=isislab-unisa&repo=vm-lab&theme=dark"
+      media="(prefers-color-scheme: dark)"
+    />
+    <source
+      srcset="https://github-readme-stats.vercel.app/api/pin/?username=isislab-unisa&repo=vm-lab"
+      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+    />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=isislab-unisa&repo=vm-lab" />
+  </picture>
+</a>
+<a href="https://github.com/isislab-unisa/alfresco-sftp#readme" target="_blank">
+  <picture>
+    <source
+      srcset="https://github-readme-stats.vercel.app/api/pin/?username=isislab-unisa&repo=alfresco-sftp&theme=dark"
+      media="(prefers-color-scheme: dark)"
+    />
+    <source
+      srcset="https://github-readme-stats.vercel.app/api/pin/?username=isislab-unisa&repo=alfresco-sftp"
+      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+    />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=isislab-unisa&repo=alfresco-sftp" />
+  </picture>
+</a>
+<a href="https://github.com/isislab-unisa/alfresco-ssh#readme" target="_blank">
+  <picture>
+    <source
+      srcset="https://github-readme-stats.vercel.app/api/pin/?username=isislab-unisa&repo=alfresco-ssh&theme=dark"
+      media="(prefers-color-scheme: dark)"
+    />
+    <source
+      srcset="https://github-readme-stats.vercel.app/api/pin/?username=isislab-unisa&repo=alfresco-ssh"
+      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+    />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=isislab-unisa&repo=alfresco-ssh" />
+  </picture>
+</a>
 ### My certifications
 <img src="certifications/red-hat-training-getting-started-with-linux-fundame.1.png">
