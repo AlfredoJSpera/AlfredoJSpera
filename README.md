@@ -1,7 +1,7 @@
 ## Hello there! 👋
 I'm **Alfredo**, a recent Computer Science graduate passionate about coding, technology, digital drawing and Linux!
 
-I'm especially interested in **backend** and **cloud* technologies.
+I'm especially interested in **backend** and **cloud** technologies.
 
 ### I can code in
 ![Java](https://img.shields.io/badge/Java%20(SE%2C%20EE)-F14C4D?style=for-the-badge&logo=openjdk&logoColor=white)
