@@ -1,7 +1,7 @@
 ## Hello there! 👋
 I'm **Alfredo**, a recent Computer Science graduate passionate about coding, technology, digital drawing and Linux!
 
-I'm especially interested in backend and cloud technology.
+I'm especially interested in **backend** and **cloud* technologies.
 
 ### I can code in
 ![Java](https://img.shields.io/badge/Java%20(SE%2C%20EE)-F14C4D?style=for-the-badge&logo=openjdk&logoColor=white)
@@ -72,4 +72,8 @@ I'm especially interested in backend and cloud technology.
 ### My certifications
 <a href="https://www.credly.com/badges/5725a674-b719-4c0c-8d52-02fe8375ba3c" target="_blank">
   <img src="certifications/red-hat-training-getting-started-with-linux-fundame.1.png">
+</a>
+
+<a href="https://ti-user-certificates.s3.amazonaws.com/e0df7fbf-a057-42af-8a1f-590912be5460/f9185049-135f-47c2-897a-fec96bb1b955-spera-alfredo-0b0252dd-d8d2-44bd-bf27-63c12143442c-certificate.pdf" target="_blank">
+  <img height=128 width=128 src="certifications/LFEL1001-CRA.png">
 </a>
