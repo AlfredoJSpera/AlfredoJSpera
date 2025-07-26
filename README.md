@@ -27,7 +27,7 @@ I'm especially interested in **backend** and **cloud** technologies.
 ![Django](https://img.shields.io/badge/django-092e20?style=for-the-badge&logo=django&logoColor=white)
 ![React](https://img.shields.io/badge/React-0081A3?style=for-the-badge&logo=react&logoColor=white)
 ![Flask](https://img.shields.io/badge/flask-0f3865?style=for-the-badge&logo=flask&logoColor=white)
-![ExpressJS](https://img.shields.io/badge/express-000000?style=for-the-badge&logo=express&logoColor=white)
+![ExpressJS](https://img.shields.io/badge/express%20JS-000000?style=for-the-badge&logo=express&logoColor=white)
 
 ### Code editors I've worked in
 ![Eclipse](https://img.shields.io/badge/Eclipse-FE7A16?style=for-the-badge&logo=Eclipse&logoColor=white)
