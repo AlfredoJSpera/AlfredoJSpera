@@ -70,10 +70,10 @@ I'm especially interested in **backend** and **cloud** technologies.
 </a>
 
 ### My certifications
-<a href="https://www.credly.com/badges/5725a674-b719-4c0c-8d52-02fe8375ba3c" target="_blank">
-  <img src="certifications/red-hat-training-getting-started-with-linux-fundame.1.png">
+<a href="https://www.credly.com/badges/5725a674-b719-4c0c-8d52-02fe8375ba3c/public_url" target="_blank">
+  <img height=128 width=128 src="certifications/red-hat-training-getting-started-with-linux-fundame.1.png">
 </a>
 
-<a href="https://ti-user-certificates.s3.amazonaws.com/e0df7fbf-a057-42af-8a1f-590912be5460/f9185049-135f-47c2-897a-fec96bb1b955-spera-alfredo-0b0252dd-d8d2-44bd-bf27-63c12143442c-certificate.pdf" target="_blank">
-  <img height=128 width=128 src="certifications/LFEL1001-CRA.png">
+<a href="https://www.credly.com/badges/b7e8014e-460d-4e6c-a180-d4827baca84f/public_url" target="_blank">
+  <img height=128 width=128 src="certifications/lfel1001-understanding-the-eu-cyber-resilience-act-.png">
 </a>
