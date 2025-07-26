@@ -18,8 +18,9 @@ I'm especially interested in **backend** and **cloud** technologies.
 ![Markdown](https://img.shields.io/badge/Markdown-404d59?style=for-the-badge&logo=markdown&logoColor=white)
 
 ### Linux distros that I'm familiar with
+![Debian](https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=fff)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
-![Linux Mint](https://img.shields.io/badge/Linux%20Mint-87CF3E?style=for-the-badge&logo=Linux%20Mint&logoColor=white)
+![Linux Mint](https://img.shields.io/badge/Linux%20Mint-72ae34?style=for-the-badge&logo=Linux%20Mint&logoColor=white)
 ![Arch](https://img.shields.io/badge/Arch%20Linux-1793D1?logo=arch-linux&logoColor=fff&style=for-the-badge)
 ![Fedora](https://img.shields.io/badge/Fedora_❤️-294172?style=for-the-badge&logo=fedora&logoColor=white)
 
@@ -38,8 +39,8 @@ I'm especially interested in **backend** and **cloud** technologies.
 
 ### Code editors I've worked in
 ![Eclipse](https://img.shields.io/badge/Eclipse-FE7A16?style=for-the-badge&logo=Eclipse&logoColor=white)
+![NetBeans](https://img.shields.io/badge/NetBeans-7e9b29?style=for-the-badge&logo=apache-netbeans-ide&logoColor=white)
 ![Visual Studio Code](https://custom-icon-badges.demolab.com/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=vsc&logoColor=white)
-![NetBeans](https://img.shields.io/badge/NetBeans-1B6AC6?style=for-the-badge&logo=apache-netbeans-ide&logoColor=white)
 ![Jetbrains](https://img.shields.io/badge/JetBrains-FE2857?style=for-the-badge&logo=jetbrains&logoColor=white)
 
 ## My thesis project
