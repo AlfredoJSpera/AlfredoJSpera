@@ -7,7 +7,7 @@ I'm especially interested in **backend** and **cloud** technologies.
 ![Java](https://img.shields.io/badge/Java%20(SE%2C%20EE)-e11f21?style=for-the-badge&logo=openjdk&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7B93E?style=for-the-badge&logo=javascript&logoColor=white)
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge)
+![C#](https://custom-icon-badges.demolab.com/badge/C%23-%23239120.svg?style=for-the-badge&logo=cshrp&logoColor=white)
 ![LaTeX](https://img.shields.io/badge/LaTeX-008080?style=for-the-badge&logo=latex&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-306998?style=for-the-badge&logo=python&logoColor=white)
@@ -29,9 +29,11 @@ I'm especially interested in **backend** and **cloud** technologies.
 ![Flask](https://img.shields.io/badge/flask-0f3865?style=for-the-badge&logo=flask&logoColor=white)
 ![ExpressJS](https://img.shields.io/badge/express-000000?style=for-the-badge&logo=express&logoColor=white)
 
-### My favorite code editors
-![Jetbrains IDEs](https://img.shields.io/badge/JetBrains-FE2857?style=for-the-badge&logo=jetbrains&logoColor=white)
-![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+### Code editors I've worked in
+![Eclipse](https://img.shields.io/badge/Eclipse-FE7A16?style=for-the-badge&logo=Eclipse&logoColor=white)
+![Visual Studio Code](https://custom-icon-badges.demolab.com/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=vsc&logoColor=white)
+![NetBeans](https://img.shields.io/badge/NetBeans-1B6AC6?style=for-the-badge&logo=apache-netbeans-ide&logoColor=white)
+![Jetbrains](https://img.shields.io/badge/JetBrains-FE2857?style=for-the-badge&logo=jetbrains&logoColor=white)
 
 ### My thesis project
 <a href="https://github.com/isislab-unisa/vm-lab#readme" target="_blank">
