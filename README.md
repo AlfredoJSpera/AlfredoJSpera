@@ -4,17 +4,20 @@ I'm **Alfredo**, a recent Computer Science graduate passionate about coding, tec
 I'm especially interested in **backend** and **cloud** technologies.
 
 ### I can code/write in
-![Java](https://img.shields.io/badge/Java%20(SE%2C%20EE)-e11f21?style=for-the-badge&logo=openjdk&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7B93E?style=for-the-badge&logo=javascript&logoColor=white)
+![Java](https://img.shields.io/badge/Java%20(SE%2C%20EE)-e11f21?style=for-the-badge&logo=openjdk&logoColor=white) <!--![Rust](https://img.shields.io/badge/Rust-D34516?style=for-the-badge&logo=rust&logoColor=white)-->
+![JavaScript](https://img.shields.io/badge/JavaScript-F7B93E?style=for-the-badge&logo=javascript&logoColor=white) 
 ![C#](https://custom-icon-badges.demolab.com/badge/C%23-%23239120.svg?style=for-the-badge&logo=cshrp&logoColor=white)
-![LaTeX](https://img.shields.io/badge/LaTeX-008080?style=for-the-badge&logo=latex&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-306998?style=for-the-badge&logo=python&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-663399?style=for-the-badge&logo=css&logoColor=white) <!--![Rust](https://img.shields.io/badge/Rust-1E2650?style=for-the-badge&logo=rust&logoColor=white)-->
-![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-663399?style=for-the-badge&logo=css&logoColor=white)
 
-### Linux distros I'm familiar with
+### I can write in
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![LaTeX](https://img.shields.io/badge/LaTeX-008080?style=for-the-badge&logo=latex&logoColor=white)
+![Markdown](https://img.shields.io/badge/Markdown-404d59?style=for-the-badge&logo=markdown&logoColor=white)
+
+### Linux distros that I'm familiar with
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 ![Linux Mint](https://img.shields.io/badge/Linux%20Mint-87CF3E?style=for-the-badge&logo=Linux%20Mint&logoColor=white)
 ![Arch](https://img.shields.io/badge/Arch%20Linux-1793D1?logo=arch-linux&logoColor=fff&style=for-the-badge)
@@ -27,7 +30,7 @@ I'm especially interested in **backend** and **cloud** technologies.
 ![Django](https://img.shields.io/badge/django-092e20?style=for-the-badge&logo=django&logoColor=white)
 ![React](https://img.shields.io/badge/React-0081A3?style=for-the-badge&logo=react&logoColor=white)
 ![Flask](https://img.shields.io/badge/flask-0f3865?style=for-the-badge&logo=flask&logoColor=white)
-![ExpressJS](https://img.shields.io/badge/express%20JS-000000?style=for-the-badge&logo=express&logoColor=white)
+![ExpressJS](https://img.shields.io/badge/express%20JS-404d59?style=for-the-badge&logo=express&logoColor=white)
 
 ### Code editors I've worked in
 ![Eclipse](https://img.shields.io/badge/Eclipse-FE7A16?style=for-the-badge&logo=Eclipse&logoColor=white)
@@ -35,7 +38,7 @@ I'm especially interested in **backend** and **cloud** technologies.
 ![NetBeans](https://img.shields.io/badge/NetBeans-1B6AC6?style=for-the-badge&logo=apache-netbeans-ide&logoColor=white)
 ![Jetbrains](https://img.shields.io/badge/JetBrains-FE2857?style=for-the-badge&logo=jetbrains&logoColor=white)
 
-### My thesis project
+## My thesis project
 <a href="https://github.com/isislab-unisa/vm-lab#readme" target="_blank">
   <picture>
     <source
@@ -76,7 +79,7 @@ I'm especially interested in **backend** and **cloud** technologies.
   </picture>
 </a>
 
-### My certifications
+## My certifications
 <a href="https://www.credly.com/badges/5725a674-b719-4c0c-8d52-02fe8375ba3c/public_url" target="_blank">
   <img height=128 width=128 src="certifications/red-hat-training-getting-started-with-linux-fundame.1.png">
 </a>
