@@ -3,9 +3,9 @@ I'm **Alfredo**, a recent Computer Science graduate passionate about coding, tec
 
 I'm especially interested in **backend** and **cloud** technologies.
 
-### I can code/write in
+### I can code in
 ![Java](https://img.shields.io/badge/Java%20(SE%2C%20EE)-e11f21?style=for-the-badge&logo=openjdk&logoColor=white) <!--![Rust](https://img.shields.io/badge/Rust-D34516?style=for-the-badge&logo=rust&logoColor=white)-->
-![JavaScript](https://img.shields.io/badge/JavaScript-F7B93E?style=for-the-badge&logo=javascript&logoColor=white) 
+![JavaScript](https://img.shields.io/badge/JavaScript-f7a813?style=for-the-badge&logo=javascript&logoColor=white) 
 ![C#](https://custom-icon-badges.demolab.com/badge/C%23-%23239120.svg?style=for-the-badge&logo=cshrp&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-306998?style=for-the-badge&logo=python&logoColor=white)
@@ -23,7 +23,11 @@ I'm especially interested in **backend** and **cloud** technologies.
 ![Arch](https://img.shields.io/badge/Arch%20Linux-1793D1?logo=arch-linux&logoColor=fff&style=for-the-badge)
 ![Fedora](https://img.shields.io/badge/Fedora_❤️-294172?style=for-the-badge&logo=fedora&logoColor=white)
 
-### The frameworks I've used
+### Databases I've worked with
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=fff)
+![Postgres](https://img.shields.io/badge/Postgres-%23316192?style=for-the-badge&logo=postgresql&logoColor=white)
+
+### Frameworks I've used
 ![Streamlit](https://img.shields.io/badge/Streamlit-fe4b4b?style=for-the-badge&logo=streamlit&logoColor=white)
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![Spring](https://img.shields.io/badge/spring_boot-6db33f?style=for-the-badge&logo=spring&logoColor=white)
