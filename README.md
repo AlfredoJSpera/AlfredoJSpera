@@ -92,3 +92,7 @@ I'm especially interested in **backend** and **cloud** technologies.
 <a href="https://www.credly.com/badges/b7e8014e-460d-4e6c-a180-d4827baca84f/public_url" target="_blank">
   <img height=128 width=128 src="certifications/lfel1001-understanding-the-eu-cyber-resilience-act-.png">
 </a>
+
+<a href="https://www.credly.com/badges/84dacc47-f66f-41ea-b4da-1ed5dc31f9ce/public_url" target="_blank">
+  <img height=128 width=128 src="certifications/lfel1002-getting-started-with-rust.png.png">
+</a>
