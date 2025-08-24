@@ -1,8 +1,6 @@
 ## Hello there! 👋
 
-<center>
-  <img src="banner.webp" alt="Banner">
-</center>
+[![Banner by waneella](banner.webp)](#)
 
 I'm **Alfredo**, a recent Computer Science graduate passionate about coding 🧑‍💻, technology 🖥️, digital drawing ✍️ and Linux 🐧!
 
