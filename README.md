@@ -1,4 +1,8 @@
 ## Hello there! 👋
+<center>
+  <img src="banner.gif" alt="Banner">
+</center>
+
 I'm **Alfredo**, a recent Computer Science graduate passionate about coding 🧑‍💻, technology 🖥️, digital drawing ✍️ and Linux 🐧!
 
 I'm especially interested in **backend** and **cloud** technologies.
@@ -96,3 +100,6 @@ I'm especially interested in **backend** and **cloud** technologies.
 <a href="https://www.credly.com/badges/84dacc47-f66f-41ea-b4da-1ed5dc31f9ce/public_url" target="_blank">
   <img height=128 width=128 src="certifications/lfel1002-getting-started-with-rust.png">
 </a>
+
+## Other
+- Banner by waneella.
