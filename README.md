@@ -1,6 +1,6 @@
 ## Hello there! 👋
 
-[![Banner by waneella](banner.webp)](#)
+[![Banner by waneella](Banner.webp)](#)
 
 I'm **Alfredo**, a recent Computer Science graduate passionate about coding 🧑‍💻, technology 🖥️, digital drawing ✍️ and Linux 🐧!
 
