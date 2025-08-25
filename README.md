@@ -43,6 +43,7 @@ I'm especially interested in **backend** and **cloud** technologies.
 [![Django](https://img.shields.io/badge/django-092e20?style=for-the-badge&logo=django&logoColor=white)](#)
 [![React](https://img.shields.io/badge/React-0081A3?style=for-the-badge&logo=react&logoColor=white)](#)
 [![Flask](https://img.shields.io/badge/flask-0f3865?style=for-the-badge&logo=flask&logoColor=white)](#)
+[![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)](#)
 [![ExpressJS](https://img.shields.io/badge/express%20JS-404d59?style=for-the-badge&logo=express&logoColor=white)](#)
 
 ### Code editors I've worked in
