@@ -4,7 +4,7 @@
 
 I'm **Alfredo**, a recent Computer Science graduate passionate about coding 🧑‍💻, technology 🖥️, digital drawing ✍️ and Linux 🐧!
 
-I'm especially interested in **backend** and **cloud** technologies.
+I'm especially interested in **web development** and **cloud** technologies.
 
 ### I can code in
 
