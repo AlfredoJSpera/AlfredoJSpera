@@ -28,7 +28,7 @@ I'm especially interested in **web development** and **cloud** technologies.
 [![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)](#)
 [![Linux Mint](https://img.shields.io/badge/Linux%20Mint-72ae34?style=for-the-badge&logo=Linux%20Mint&logoColor=white)](#)
 [![Arch](https://img.shields.io/badge/Arch%20Linux-1793D1?logo=arch-linux&logoColor=fff&style=for-the-badge)](#)
-[![Fedora](https://img.shields.io/badge/Fedora_❤️-294172?style=for-the-badge&logo=fedora&logoColor=white)](#)
+[![Fedora](https://img.shields.io/badge/Fedora-294172?style=for-the-badge&logo=fedora&logoColor=white)](#)
 
 ### Databases I've worked with
 
