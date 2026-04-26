@@ -6,7 +6,7 @@ I'm **Alfredo**, a recent Computer Science graduate passionate about coding 🧑
 
 I'm especially interested in **web development** and **cloud** technologies.
 
-### I can code in
+### I've coded in
 
 [![Java](https://img.shields.io/badge/Java%20(SE%2C%20EE)-e11f21?style=for-the-badge&logo=openjdk&logoColor=white)](#) <!--![Rust](https://img.shields.io/badge/Rust-D34516?style=for-the-badge&logo=rust&logoColor=white)-->
 [![JavaScript](https://img.shields.io/badge/JavaScript-f7a813?style=for-the-badge&logo=javascript&logoColor=white)](#)
@@ -16,7 +16,7 @@ I'm especially interested in **web development** and **cloud** technologies.
 [![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)](#)
 [![CSS](https://img.shields.io/badge/CSS-663399?style=for-the-badge&logo=css&logoColor=white)](#)
 
-### I can write in
+### I've wrote in
 
 [![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](#)
 [![LaTeX](https://img.shields.io/badge/LaTeX-008080?style=for-the-badge&logo=latex&logoColor=white)](#)
