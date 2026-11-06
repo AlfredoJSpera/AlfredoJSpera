@@ -2,9 +2,9 @@
 
 [![Banner by waneella](Banner.webp)](#)
 
-I'm **Alfredo**, a recent Computer Science graduate passionate about coding 🧑‍💻, technology 🖥️, digital drawing ✍️ and Linux 🐧!
+I'm **Alfredo**, a Computer Science masters degree student, passionate about coding 🧑‍💻, technology 🖥️, digital drawing ✍️ and Linux 🐧!
 
-I'm especially interested in **web development** and **cloud** technologies.
+I'm especially interested in **web development** and **cloud/infrastructure** technologies.
 
 ### I've coded in
 
