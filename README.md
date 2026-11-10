@@ -4,7 +4,7 @@
 
 I'm **Alfredo**, a Computer Science masters degree student, passionate about coding 🧑‍💻, technology 🖥️, digital drawing ✍️ and Linux 🐧!
 
-I'm especially interested in **web development** and **cloud/infrastructure** technologies.
+I'm especially interested in **web development** and **cloud/self-hosting** technologies.
 
 ### I've coded in
 
