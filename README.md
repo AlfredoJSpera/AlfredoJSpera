@@ -55,6 +55,11 @@ I'm especially interested in **web development** and **cloud/self-hosting** tech
 
 ## My thesis project
 
+- [VM-Lab](https://github.com/isislab-unisa/vm-lab#readme)
+  - [SFTP Module](https://github.com/isislab-unisa/alfresco-sftp#readme)
+  - [SSH Module](https://github.com/isislab-unisa/alfresco-ssh#readme)
+
+<!--
 <a href="https://github.com/isislab-unisa/vm-lab#readme" target="_blank">
   <picture>
     <source
@@ -94,6 +99,7 @@ I'm especially interested in **web development** and **cloud/self-hosting** tech
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=isislab-unisa&repo=alfresco-ssh" />
   </picture>
 </a>
+-->
 
 ## My certifications
 
